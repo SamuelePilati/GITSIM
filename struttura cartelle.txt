@@ -1,0 +1,6 @@
+Progetto fatto in vivado 2018.3
+In prototipo_3encoder72bit\prot_1encoder\prot_1encoder.srcs\sources_1\new sono presenti i file vhdl del progetto.
+In prototipo_3encoder72bit\prot_1encoder\prot_1encoder.sdk\gitsim_buffer2 sono presenti tutti i file del firmware
+In  ogni caso se il progetto viene aperto con vivado e sdk tutto è facilmente raggiungibile.
+
+I file utili per la GUI sono contenuti nelle cartelle tabs e shared
